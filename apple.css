@@ -1,0 +1,125 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.bg-firstpic{
+    background-image: url(../img/hero_iphone16pro_avail__fnf0f9x70jiy_large.jpg);
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg-sectpic{
+    background-image: url(../img/hero_iphone16_avail__euwzls69btea_large.jpg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg-thetpic{
+    background-image: url(../img/promo_apple_watch_series_10_avail_lte__c70y29goir42_large.jpg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.menu{
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+.but-one{
+    gap: 20px;
+    margin-top:30px;
+    margin-right: -14px;
+}
+.but-tow{
+    gap: 20px;
+    margin-top:240px;
+    margin-right: -4px;
+}
+.but-the{
+    gap: 20px;
+    margin-top:-165px;
+    margin-right: -13px;
+}
+
+.bg-pic-tl{
+   
+    width: 560px;
+    height: 490px;
+    background-size: 516px 490px;
+    background-repeat: no-repeat;
+    background-image: url(../img/pictl.jpg);
+}
+.bg-pic-tr{
+    width:560px;
+    height: 490px;
+    background-size: 516px 490px;
+    background-repeat: no-repeat;
+    background-image: url(../img/pictr.jpg);
+}
+.bg-pic-bl{
+    width:560px;
+    height: 490px;
+    background-size: 516px 490px;
+    background-repeat: no-repeat;
+    background-image: url(../img/laotop.jpg);
+}
+.bg-pic-br{
+    width:560px;
+    height: 490px;
+    background-size: 516px 490px;
+    background-repeat: no-repeat;
+    background-image: url(../img/gaf.jpg);
+}
+.bg-pic-tph{
+    width:560px;
+    height: 490px;
+    background-size: 516px 490px;
+    background-repeat: no-repeat;
+    background-image: url(../img/towphone.jpg);
+}
+.bg-pic-car{
+    width:560px;
+    height: 490px;
+    background-size: 516px 490px;
+    background-repeat: no-repeat;
+    background-image: url(../img/card.jpg);
+}
+.slide{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    height: 70vh;
+    margin-bottom: 10px;
+}
+.diyalog{
+    color: rgb(120, 117, 117);
+    font-size: 10px;
+    width: 900px;
+}
+footer{
+    background-color: #F5F5F7;
+}
+.list{
+    font-size: 5px;
+}
+.footmenu{
+    color: black;
+    font-size: 10px;
+    display: flex;
+    justify-content: start;
+}
+.titer{
+    font-size: 10px;
+}
+.fottlist{
+    display: flex;
+    justify-content: space-evenly;
+}
